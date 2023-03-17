@@ -30,7 +30,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
  <summary><h2>🛠️ Ferramentas que utilizo </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Linguagens de programação e marcação and Markup </h3>
+  <h3>👨‍💻 Linguagens de programação </h3>
 
   <p>  
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -41,7 +41,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
 
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 Frameworks e bibliotecas</h3>
 
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -53,14 +53,14 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 </p>
   </h3>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Banco de dados</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Programas, IDE's e ferramentas </h3>
 
   <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -79,7 +79,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 </p>
 
 
-<h3>🌱 Learning
+<h3>🌱 Estou aprendendo
  
  <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
@@ -87,13 +87,12 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
  </h3>
  
-  <summary><h2>Feel free to connect:</h2></summary>
+  <summary><h2>Entre em contato comigo:</h2></summary>
 
-  <p>  
-  <a href="https://www.linkedin.com/in/zimarlen-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  Linkedin aqui <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a href="zimarlensilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="julian_sempre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
   </p>
-  <h3>Thank you for visiting!</>
+  <h3>Obrigado por me visitar!</>
 
