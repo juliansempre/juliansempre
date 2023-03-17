@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-  <a href="https://github.com/juliansempre/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20front-end;Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=#00FF00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
