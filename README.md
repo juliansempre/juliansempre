@@ -83,8 +83,10 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 <h3>🌱 Estou aprendendo  </h3>
  
  <p>
-       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-   
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href=""><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img></a>
+    <a href=""><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></img></a>
+
   </p>
 
 
@@ -93,7 +95,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
   <a href="https://www.linkedin.com/in/julian-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a href="julian_sempre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="julian_sempre@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"></img></a>
   </a> 
   </p>
   <h3>Obrigado por me visitar!</h3>
