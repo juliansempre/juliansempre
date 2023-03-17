@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
  
   <a href="https://github.com/juliansempre/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20front-end;Sempre%20Aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=f92c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20front-end;Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=f92c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecnologia e desafios. desenvolvo sites com HTML, CSS, Javascript, React, Node js, Bootstrap, Jquery, PHP.
