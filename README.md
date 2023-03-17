@@ -89,7 +89,13 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
   </p>
 
-
+<h3> 📚 Github Stats: <br></h3>
+  
+<div>
+  <a href="[https://github.com/juliansempre](https://github.com/juliansempre)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliansempre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliansempre&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
  
   <summary><h2>Entre em contato comigo:</h2></summary>
 
