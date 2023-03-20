@@ -47,8 +47,10 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
   <p>
       <a href="#"><img height="20px" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img height="20px" alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img></a>
       <a href="#"><img height="20px" alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
        <a href="#"><img height="20px" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+       
  
 </p>
   </h3>
