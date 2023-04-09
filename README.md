@@ -38,10 +38,9 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
       <a href="#"><img height="20px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img height="20px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img height="20px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img></a>
 
-
+  </P>
 
   <h3>🧰 Frameworks e bibliotecas</h3>
 
@@ -69,6 +68,8 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
       <a href="#"><img height="20px" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img height="20px" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></img></a>
       <a href="#"><img height="20px" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img></a>
+      <a href="#"><img height="20px" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img height="20px" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></img></a>
   </p>
      
   </p>
@@ -86,9 +87,9 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 <h3>🌱 Estou aprendendo  </h3>
  
  <p>
-    <a href="#"><img height="20px" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img height="20px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img height="20px" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img></a>
-    <a href="#"><img height="20px" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></img></a>
+    
 
   </p>
 <hr size="2" width="100%" align="center" noshade>
