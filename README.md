@@ -42,7 +42,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
   </P>
 
-  <h3>🧰 Frameworks ,interpletadores e bibliotecas</h3>
+  <h3>🧰 Frameworks, interpletadores e bibliotecas</h3>
 
   <p>
     <a href="#"><img height="20px" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -58,6 +58,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor front-end, apaixonado por tecno
 
   <p>
   <a href="#"><img height="20px" alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img height="20px" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
   <h3>💻 Programas, IDE's e ferramentas </h3>
