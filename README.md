@@ -87,6 +87,7 @@ Bem vindo ao meu perfil! Eu sou um desenvolvedor Fullstack, apaixonado por tecno
 <h3>🌱 Estou aprendendo  </h3>
  
  <p>
+    <a href="#"><img height="20px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="#"><img height="20px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img height="20px" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img></a>
     
