@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <p align="center">
  
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Fullstack;Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=#00FF00&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Sempre%20aprendendo%20novas%20coisas&font=Fira%20Code&center=true&width=440&height=45&color=#00FF00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Bem vindo ao meu perfil! Sou um desenvolvedor Fullstack, apaixonado por tecnologia e desafios. desenvolvo aplicações desktop Java e Desensenvolvimento Web com HTML, CSS, Typescript, Javascript, React, Angular, Node js, Java Springboot entre outros.
+Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnologia e desafios. desenvolvo aplicações desktop Java e Desensenvolvimento Web com HTML, CSS, Typescript, Javascript, React, Angular, Node js, Java Springboot entre outros.
 
  <summary><h2>🛠️ Ferramentas que utilizo </h2></summary>
 <hr size="2" width="100%" align="center" noshade>
