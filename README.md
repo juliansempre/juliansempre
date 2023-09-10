@@ -38,6 +38,7 @@ Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnolo
       <a href="#"><img height="20px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img height="20px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img height="20px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img></a>
 
   </P>
@@ -51,6 +52,8 @@ Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnolo
     <a href="#"><img height="20px" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
     <a href="#"><img height="20px" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img height="20px" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></img></a> 
+     <a href="#"><img height="20px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+
 </p>
   </h3>
 
@@ -88,8 +91,6 @@ Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnolo
 <h3>🌱 Estou aprendendo  </h3>
  	
  <p>
-    <a href="#"><img height="20px" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
-      <a href="#"><img height="20px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
     <a href="#"><img height="20px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img height="20px" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img></a>
     
