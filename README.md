@@ -36,7 +36,6 @@ Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnolo
 
   <p>  
       <a href="#"><img height="20px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img height="20px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="#"><img height="20px" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
       <a href="#"><img height="20px" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img></a>
@@ -114,4 +113,4 @@ Bem vindo ao meu perfil! Sou um desenvolvedor Full Stack, apaixonado por tecnolo
   </a> 
   </p>
   <h3>Obrigado por me visitar!</h3>
-
+<!-- <a href="#"><img height="20px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> -->
